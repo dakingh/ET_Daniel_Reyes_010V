@@ -1,0 +1,21 @@
+Android Studio:
+npm install @capacitor/android
+npx cap add android
+
+
+Camara scanner:
+npm install @capacitor/barcode-scanner
+npx cap sync
+
+
+Ionic angular:
+npm install @ionic/angular@latest
+npm install -g @ionic/cli
+
+
+Codigo qr:
+npm install angularx-qrcode --save
+
+
+Ionic swiper:
+npm install swiper@latest
